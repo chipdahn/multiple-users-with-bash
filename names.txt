@@ -1,0 +1,10 @@
+big
+small
+thick
+thin
+black
+white
+red
+purple
+wood
+rice
